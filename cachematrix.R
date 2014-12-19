@@ -1,4 +1,4 @@
-## cachematrix: caches the inverse of a matrix
+## cachematrix: caches the inverse of a matrix.
 
 ## makeCacheMatrix: creates a special "matrix" object that can cache its inverse 
 
